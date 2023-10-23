@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 @objc(PulseAnimation)
 public enum PulseAnimation: Int {

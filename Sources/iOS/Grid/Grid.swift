@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 @objc(GridAxisDirection)
 public enum GridAxisDirection: Int {

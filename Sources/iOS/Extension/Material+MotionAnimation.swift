@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 public extension MotionAnimation {
   /**

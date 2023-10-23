@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 /// Implements common logic for CheckButton and RadioButton
 open class BaseIconLayerButton: Button {

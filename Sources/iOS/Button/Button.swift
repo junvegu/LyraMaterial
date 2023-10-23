@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 open class Button: UIButton, Pulseable, PulseableLayer, Themeable {
   /**

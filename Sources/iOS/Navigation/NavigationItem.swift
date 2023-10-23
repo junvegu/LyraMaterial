@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 /// A memory reference to the NavigationItem instance.
 fileprivate var NavigationItemKey: UInt8 = 0

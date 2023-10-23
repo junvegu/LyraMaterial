@@ -34,7 +34,7 @@
 
 import UIKit
 import Accelerate
-import Motion
+import LyraMotion
 
 @objc(ImageFormat)
 public enum ImageFormat: Int {

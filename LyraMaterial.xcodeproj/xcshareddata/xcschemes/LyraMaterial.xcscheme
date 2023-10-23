@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "963832351B88DFD80015F710"
-               BuildableName = "Material.framework"
-               BlueprintName = "Material"
-               ReferencedContainer = "container:Material.xcodeproj">
+               BuildableName = "LyraMaterial.framework"
+               BlueprintName = "LyraMaterial"
+               ReferencedContainer = "container:LyraMaterial.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,22 +31,12 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "963832351B88DFD80015F710"
-            BuildableName = "Material.framework"
-            BlueprintName = "Material"
-            ReferencedContainer = "container:Material.xcodeproj">
+            BuildableName = "LyraMaterial.framework"
+            BlueprintName = "LyraMaterial"
+            ReferencedContainer = "container:LyraMaterial.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "963832401B88DFD80015F710"
-               BuildableName = "Material.xctest"
-               BlueprintName = "Material iOS Tests"
-               ReferencedContainer = "container:Material.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
@@ -63,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "963832351B88DFD80015F710"
-            BuildableName = "Material.framework"
-            BlueprintName = "Material"
-            ReferencedContainer = "container:Material.xcodeproj">
+            BuildableName = "LyraMaterial.framework"
+            BlueprintName = "LyraMaterial"
+            ReferencedContainer = "container:LyraMaterial.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -79,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "963832351B88DFD80015F710"
-            BuildableName = "Material.framework"
-            BlueprintName = "Material"
-            ReferencedContainer = "container:Material.xcodeproj">
+            BuildableName = "LyraMaterial.framework"
+            BlueprintName = "LyraMaterial"
+            ReferencedContainer = "container:LyraMaterial.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 open class TabItem: FlatButton {
   /// A dictionary of TabItemStates to UIColors for states.

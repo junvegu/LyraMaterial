@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import LyraMotion
 
 @objc(CollectionViewCell)
 open class CollectionViewCell: UICollectionViewCell, Pulseable, PulseableLayer {

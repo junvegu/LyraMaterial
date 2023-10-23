@@ -1,4 +1,4 @@
-![Material](http://www.cosmicmind.com/material/github/material-logo.png)
+### Important: This fork of CosmicMind Material Library sets the iOS deployment target to 11.0 to allow build the library with Xcode 15.
 
 # Material
 
