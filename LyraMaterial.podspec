@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name = 'LyraMaterial'
-	s.version = '1.0.4'
+	s.version = '1.0.5'
 	s.swift_version = '5.0'
 	s.license = 'BSD-3-Clause'
 	s.summary = 'This library is a fork of CosmicMind Material library that fix the compilation problem with Xcode 15'
