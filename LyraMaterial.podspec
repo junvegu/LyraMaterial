@@ -8,18 +8,11 @@ Pod::Spec.new do |s|
 	s.authors = { 'Lyra Dev Mobile' => 'dev-mobile@lyra-network.com' }
  	s.source = { :git => 'https://github.com/lyra/Material.git', :tag => s.version }
 
-	s.default_subspec = 'Core'
-	s.platform = :ios, '11.0'
+	
+	 s.ios.deployment_target = '11.0'
+         s.ios.vendored_frameworks = 'LyraMaterial.xcframework'
 
-	s.subspec 'Core' do |s|
-		s.ios.deployment_target = '11.0'
-		s.ios.source_files = 'Sources/**/*.swift'
-		s.requires_arc = true
-		s.resource_bundles = {
-			'com.cosmicmind.material.icons' => ['Sources/**/*.xcassets'],
-			'com.cosmicmind.material.fonts' => ['Sources/**/*.ttf']
-		}
+	 s.dependency 'LyraMotion'	
 
-		s.dependency 'LyraMotion', '~> 4.0.0'
-	end
+	
 end

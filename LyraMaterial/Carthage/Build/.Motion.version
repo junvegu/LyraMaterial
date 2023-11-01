@@ -1,0 +1,19 @@
+{
+  "commitish" : "4.0.0",
+  "iOS" : [
+    {
+      "identifier" : "ios-arm64",
+      "name" : "LyraMotion",
+      "container" : "LyraMotion.xcframework",
+      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)",
+      "hash" : "94091b68bd9286e136e6b85e265021355ce199dd0dbc406474f06dc8b9c20c91"
+    },
+    {
+      "hash" : "b871d78931473800af98bc0ddc5633225cf82a362ff10c4cf5065096e889c035",
+      "container" : "LyraMotion.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "name" : "LyraMotion",
+      "swiftToolchainVersion" : "5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+    }
+  ]
+}
