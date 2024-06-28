@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 	s.name = 'LyraMaterial'
-	s.version = '1.0.5'
+	s.version = '1.0.6'
 	s.swift_version = '5.0'
 	s.license = 'BSD-3-Clause'
 	s.summary = 'This library is a fork of CosmicMind Material library that fix the compilation problem with Xcode 15'
@@ -8,11 +8,11 @@ Pod::Spec.new do |s|
 	s.authors = { 'Lyra Dev Mobile' => 'dev-mobile@lyra-network.com' }
  	s.source = { :git => 'https://github.com/lyra/Material.git', :tag => s.version }
 
-	
-	 s.ios.deployment_target = '11.0'
+
+	 s.ios.deployment_target = '13.4'
          s.ios.vendored_frameworks = 'LyraMaterial.xcframework'
 
-	 s.dependency 'LyraMotion'	
+	 s.dependency 'LyraMotion'
 
-	
+
 end

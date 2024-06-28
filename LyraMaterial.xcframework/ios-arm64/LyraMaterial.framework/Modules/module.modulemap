@@ -1,7 +1,7 @@
 framework module LyraMaterial {
   umbrella header "LyraMaterial.h"
-
   export *
+
   module * { export * }
 }
 

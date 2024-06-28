@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		8rsI9uOflF3FbNIdsl4+zPvlZRo=
+		xDXgPADgumV1bPVjoeq0uBVRM84=
 		</data>
 		<key>Headers/Application.swift</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Headers/LyraMaterial-Swift.h</key>
 		<data>
-		q3GIVhBWyvXtPR6banh29ojPqhw=
+		KGbQx3HE+Z+kz3ZJIWWSQifzURc=
 		</data>
 		<key>Headers/LyraMaterial.h</key>
 		<data>
@@ -326,51 +326,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ltqzm/CdFGoM0xAo6CXfxA+yKAE=
+		2LFbgB7dSm9e8iOlLibUYCnwYBQ=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		81OFSOsJBhdNgEWpsoSVNOVj7UA=
+		jj3FFnLBkrfwd0Y2xsNdcYg9gVk=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		V50Tm1i5hItTs/Z7X4eFGufTdtE=
+		Zbu1+lQ+FeUuZCUkxsGGdga1pdU=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		A8ZiQGYSAui89Qwk6Eh6DzSMlMo=
+		s6KdC4TTqTBzzCX2PXtcYjOD8bM=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		V50Tm1i5hItTs/Z7X4eFGufTdtE=
+		Zbu1+lQ+FeUuZCUkxsGGdga1pdU=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oevMEN4j5T9g0uifhpTieh6FOHQ=
+		DLxfvZH/bILTz8gty9kkTsbWdhs=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZZ9dy8QAJBuH6GFXLfHAc1/EWBE=
+		jj3FFnLBkrfwd0Y2xsNdcYg9gVk=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KsLL49lCiC0T9LL+nf15mENk3yY=
+		npGIk9B5aMp0STMjU5e9n4T+smA=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2aKncW4MKVCT0QHaCR632rEnfak=
+		o9/dfaKmKSyU5W1E/L4cmu9S5TU=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KsLL49lCiC0T9LL+nf15mENk3yY=
+		npGIk9B5aMp0STMjU5e9n4T+smA=
 		</data>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P8sNawTQku4Q/kmtbqI8wGB2HiU=
+		KdXK4XCe1p/cFnb71+ONR46B1J4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		cakzA2aEiNkhJqjIw7yB7IWuJ68=
+		lIAblF8RsI7FjJ8laHbHBTwAvDU=
 		</data>
 		<key>Roboto-Bold.ttf</key>
 		<data>
@@ -399,7 +399,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZRMH6vZ4WxQxJmypfMtXvABkV8YGQ/7vQTSphlGOA4=
+			O2Tlx2mPCdxI0dtZnBo9JV786yMhh/k09iCiYimnbzg=
 			</data>
 		</dict>
 		<key>Headers/Application.swift</key>
@@ -658,7 +658,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PK5wZmEJCSZC+bif6+HCoeDlqTsWVAApTN1D/edEhWM=
+			rlKsp20vi1kveLVY5EyHQMzguCWeHQPOjjqSmXQKFR0=
 			</data>
 		</dict>
 		<key>Headers/LyraMaterial.h</key>
@@ -959,77 +959,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dkd+Ji7PN8pDzW4TZLjzPMqeNbGzB+nI0nKEPcPtxPI=
+			XcHtJ2foPOi8RYYNUD5a/5h9R+ELyoRiVkdWLvcKVuQ=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rL+JUhVfJf1CmxWsGRFbmVwFqh6G2AXJa50C5E/Ph+s=
+			XgGrvzPraEULO01TqD1s8DKkkCirLlwkjcBYwABgMbQ=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JvCTAo7VR0kd05JgOdPfbrOpYg7UoqRiy4kgk58V8Go=
+			zYQAwCnI3qbRxQMAmVXmv9Wu2MaVnZaUKL4YMtEAgnc=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rL+JUhVfJf1CmxWsGRFbmVwFqh6G2AXJa50C5E/Ph+s=
+			XgGrvzPraEULO01TqD1s8DKkkCirLlwkjcBYwABgMbQ=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OBcf1lDr/J+ka+5ZCUM5ieLrUOPis5EvAYPrsFwe46M=
+			P00wQ/dzilJoS1aT37G+piLSkiP+iS6/fgCY9BPiHtk=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wqzArdKm7C7sbthTkBt9U7ZhzeBlE+bnStcOtYucMpc=
+			XcHtJ2foPOi8RYYNUD5a/5h9R+ELyoRiVkdWLvcKVuQ=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J8YPPbUTWWzfAAPMdj4p7C3CrdwXYmBWW2vT5LqP07k=
+			59HXu6+rugOy6G2IzVPc7OtKCx/THttzkIIc+3b+HPY=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			78OkjM4zFzE6W+neVlBR7pd73g9l7i4JFS9mncqRQt8=
+			OXrxz7hvLoX3d9WrpAmqbgA6Y5YsjU2pyRLEY1dYRdg=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J8YPPbUTWWzfAAPMdj4p7C3CrdwXYmBWW2vT5LqP07k=
+			59HXu6+rugOy6G2IzVPc7OtKCx/THttzkIIc+3b+HPY=
 			</data>
 		</dict>
 		<key>Modules/LyraMaterial.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DW5h03aZ1vWrwtc6PGNZfztdML6wcz/u0vVV43yPK8g=
+			QxiTjB2MPGrsS2kyjWbL4ILuuFjpQUGf1YfdLzjFYhE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VxEJcq/l2OcN4QpRobzTlIJnJVt7yhw3/9hBXr6XxwY=
+			m6YMdXKTX3mhepxnadkVA+WxjP1XHiWWDICqJj0k0Zo=
 			</data>
 		</dict>
 		<key>Roboto-Bold.ttf</key>
