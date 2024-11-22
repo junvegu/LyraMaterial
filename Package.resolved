@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lyramotion",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/junvegu/LyraMotion.git",
+      "state" : {
+        "revision" : "092c03d7cf65f3bb9187aeb6145bf553e4e7d9ed",
+        "version" : "4.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}

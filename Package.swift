@@ -13,13 +13,19 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/junvegu/Motion.git", from: "4.1.0")
+        .package(url: "https://github.com/junvegu/LyraMotion.git", from: "4.1.0")
     ],
     targets: [
         .binaryTarget(
             name: "LyraMaterial",
             path: "./LyraMaterial.xcframework"
+        ),
+        .target(
+            name: "WrapperTarget",
+            dependencies: [
+                .product(name: "LyraMotion", package: "LyraMotion") // Cambia a LyraMotion
+            ],
+            path: "./Sources"
         )
     ]
 )
-
